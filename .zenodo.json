@@ -1,0 +1,20 @@
+{
+    "title": "GCC_Desalination: data and code for 'Engineering scarcity into vulnerability: desalination, water security, and the governance of conflict risk in the Gulf Cooperation Council'",
+    "description": "Analysis data and code for the vulnerability assessment of desalination-dependent water supply in the six Gulf Cooperation Council states under interstate conflict. Includes the Monte Carlo composite vulnerability index, the disruption-scenario engine (scenarios S1 to S4), the coupled multi-layer network cascade model, the Sobol global sensitivity analysis, the machine-readable model input data, and the reference outputs. All scripts are seeded for exact reproduction.",
+    "creators": [
+        {"name": "Ashkanani, Zainab"},
+        {"name": "Shuaibi, Nourah"},
+        {"name": "Albatayneh, Rashed"}
+    ],
+    "upload_type": "software",
+    "license": "MIT",
+    "keywords": [
+        "desalination",
+        "water security",
+        "Gulf Cooperation Council",
+        "Monte Carlo",
+        "Sobol sensitivity analysis",
+        "critical infrastructure",
+        "water-energy nexus"
+    ]
+}

@@ -1,0 +1,25 @@
+# Generated analysis outputs (reproducible by running the scripts).
+# The archived reference copies live in reference_outputs/ and ARE tracked.
+layer1_outputs/
+layer2_outputs/
+layer3_outputs/
+
+# Publication figures written to the repo root by gcc_publication_figures.py
+Fig_1b_composite_distributions.*
+SI_rank_probability_heatmap.*
+Fig_5c_time_to_crisis.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

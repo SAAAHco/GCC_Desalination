@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated article."
+title: "GCC_Desalination: vulnerability analysis code for Gulf desalination under conflict"
+authors:
+  - family-names: Ashkanani
+    given-names: Zainab
+  - family-names: Shuaibi
+    given-names: Nourah
+  - family-names: Albatayneh
+    given-names: Rashed
+version: 1.0.0
+date-released: 2026-07-18
+license: MIT
+repository-code: "https://github.com/SAAAHco/GCC_Desalination"
+keywords:
+  - desalination
+  - water security
+  - Monte Carlo
+  - Sobol sensitivity
+  - critical infrastructure
+preferred-citation:
+  type: article
+  title: "Engineering scarcity into vulnerability: desalination, water security, and the governance of conflict risk in the Gulf Cooperation Council"
+  authors:
+    - family-names: Ashkanani
+      given-names: Zainab
+    - family-names: Shuaibi
+      given-names: Nourah
+    - family-names: Albatayneh
+      given-names: Rashed
+  year: 2026
+  journal: "Journal of Hydrology"

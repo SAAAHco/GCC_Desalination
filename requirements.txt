@@ -1,0 +1,12 @@
+# Python dependencies for the GCC desalination vulnerability analysis.
+# Pinned to the versions the pipeline was last tested against.
+# Install with:  pip install -r requirements.txt
+#
+# Python 3.10 or newer is required.
+
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+networkx>=3.0        # Layer 3A only (gcc_layer3_network_cascade.py)
+SALib>=1.4           # Layer 3B only (gcc_layer3_sobol_sensitivity.py)
+scipy>=1.9           # pulled in by SALib; listed for completeness
