@@ -112,3 +112,6 @@ If you use this code, please cite the article and the software (see `CITATION.cf
 ## License
 
 Released under the MIT License (see `LICENSE`).
+
+## Contact
+Data and analysis code for the Journal of Hydrology submission. Uploaded by Dr. Zainab Ashkanani, Email: Ashkanani@saaah.co
