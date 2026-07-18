@@ -1,0 +1,7 @@
+Country,Grid knockout frac med,Deficit med,T_crisis days med,T_crisis p2.5,T_crisis p97.5,P(crisis<72h)
+Bahrain,0.9,0.85,1.8,1.2,2.5,1.0
+Kuwait,0.9,0.85,3.5,2.3,5.0,0.277
+Qatar,1.0,0.95,7.4,5.3,9.5,0.0
+Oman,0.14,0.09,82.9,43.2,195.7,0.0
+UAE,0.81,0.76,115.2,102.1,129.3,0.0
+Saudi Arabia,0.9,0.85,8.8,5.8,12.4,0.0

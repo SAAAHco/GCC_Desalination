@@ -1,0 +1,10 @@
+Facility -> intake,Distance km,P(reach <72h),P(reach <120h)
+Bapco Sitra -> Sitra plant,20,0.977,1.0
+Mesaieed -> Ras Laffan B/C,40,0.782,0.953
+Yanbu (co-located refinery+desal),5,1.0,1.0
+Strait -> Oman nearest intake,40,0.778,0.947
+Strait -> UAE nearest intake,75,0.374,0.717
+Strait -> Qatar nearest intake,510,0.0,0.0
+Strait -> Bahrain nearest intake,460,0.0,0.0
+Strait -> Saudi nearest intake,620,0.0,0.0
+Strait -> Kuwait nearest intake,840,0.0,0.0

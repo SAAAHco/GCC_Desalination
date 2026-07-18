@@ -1,0 +1,7 @@
+Country,N plants,P(>50% | top-1),P(>50% | top-2),P(>50% | top-3),Min plants for >50% (med),Top-3 strike: pop risk (M) med,Top-3 strike: T_crisis days med
+Bahrain,6,0.146,1.0,1.0,2,0.87,2.5
+Kuwait,7,0.0,0.047,1.0,3,1.94,7.1
+Qatar,7,0.0,1.0,1.0,2,1.66,13.3
+Oman,13,0.0,0.0,0.412,4,1.25,24.2
+UAE,70,0.0,0.0,0.0,8,0.69,573.0
+Saudi Arabia,33,0.0,0.0,0.043,5,6.0,32.7

@@ -1,0 +1,31 @@
+Country,Parameter,S1,ST
+Bahrain,substitution,0.37,0.391
+Bahrain,reserve_days,0.0,0.0
+Bahrain,restart_days,0.591,0.618
+Bahrain,zipf_exponent,0.013,0.013
+Bahrain,largest_share,0.004,0.004
+Kuwait,substitution,0.517,0.548
+Kuwait,reserve_days,0.0,0.0
+Kuwait,restart_days,0.391,0.431
+Kuwait,zipf_exponent,0.058,0.059
+Kuwait,largest_share,0.001,0.001
+Qatar,substitution,0.431,0.456
+Qatar,reserve_days,0.0,0.0
+Qatar,restart_days,0.512,0.544
+Qatar,zipf_exponent,0.028,0.028
+Qatar,largest_share,0.003,0.004
+Oman,substitution,0.608,0.646
+Oman,reserve_days,0.001,0.001
+Oman,restart_days,0.236,0.286
+Oman,zipf_exponent,0.109,0.113
+Oman,largest_share,0.002,0.002
+UAE,substitution,0.377,0.794
+UAE,reserve_days,0.009,0.025
+UAE,restart_days,0.033,0.19
+UAE,zipf_exponent,0.123,0.614
+UAE,largest_share,0.0,0.004
+Saudi Arabia,substitution,0.65,0.698
+Saudi Arabia,reserve_days,0.001,0.001
+Saudi Arabia,restart_days,0.143,0.2
+Saudi Arabia,zipf_exponent,0.147,0.158
+Saudi Arabia,largest_share,0.003,0.003

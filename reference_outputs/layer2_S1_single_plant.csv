@@ -1,0 +1,7 @@
+Country,Plant,Share %,Pop at risk (M) med,T_crisis days med,T_crisis p2.5,T_crisis p97.5,P(crisis<72h),Cum loss $M med (drone),Cum loss $M med (missile)
+Saudi Arabia,Ras Al-Khair,18.5,3.2,110.7,45.4,2053.6,0.0,0.0,0.0
+Qatar,Ras Laffan B/C,36.8,1.8,36.3,18.7,107.5,0.0,0.0,8090.0
+Bahrain,Al Dur,47.8,0.85,5.0,2.8,9.7,0.056,48.0,2064.0
+Kuwait,Az Zour North,15.7,0.0,56.1,23.4,1208.6,0.0,0.0,0.0
+Oman,Ghubrah 3,16.8,0.0,127.3,52.2,2418.6,0.0,0.0,0.0
+UAE,Taweelah,12.0,0.0,2459.3,1227.4,45557.5,0.0,0.0,0.0

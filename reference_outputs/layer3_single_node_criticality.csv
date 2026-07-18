@@ -1,0 +1,26 @@
+Node,Type,Regional demand lost
+GRID_Saudi Arabia,Grid,0.534
+SCADA_Saudi Arabia,SCADA,0.534
+STRAIT,Strait,0.331
+P_Saudi Arabia_0,Plant,0.109
+SCADA_Kuwait,SCADA,0.096
+GRID_Kuwait,Grid,0.096
+GRID_UAE,Grid,0.09
+SCADA_UAE,SCADA,0.09
+P_Saudi Arabia_1,Plant,0.078
+GRID_Qatar,Grid,0.072
+SCADA_Qatar,SCADA,0.072
+SCADA_Bahrain,SCADA,0.031
+GRID_Bahrain,Grid,0.031
+P_Kuwait_1,Plant,0.028
+P_Qatar_0,Plant,0.027
+SCADA_Oman,SCADA,0.018
+GRID_Oman,Grid,0.018
+P_Oman_1,Plant,0.018
+P_Bahrain_0,Plant,0.016
+P_Kuwait_0,Plant,0.016
+P_Oman_0,Plant,0.015
+P_Qatar_1,Plant,0.014
+P_UAE_1,Plant,0.013
+P_UAE_0,Plant,0.013
+P_Bahrain_1,Plant,0.006
