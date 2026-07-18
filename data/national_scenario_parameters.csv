@@ -1,0 +1,7 @@
+country,reserve_days_lo,reserve_days_hi,dependent_pop_millions,daily_loss_full_lo_MUSD,daily_loss_full_hi_MUSD,health_cost_USD_per_episode,grid_knockout_dist,grid_knockout_p1,grid_knockout_p2,n_plants,largest_share_pct
+Bahrain,1,2,1.44,15,25,650,uni,0.8,1.0,6,47.8
+Kuwait,2,4,4.59,85,120,720,uni,0.8,1.0,7,15.7
+Qatar,5,9,3.17,110,160,850,pt,1.0,,7,36.8
+Oman,5,10,4.04,35,50,580,pt,0.14,,13,16.8
+UAE,80,95,4.86,250,380,820,pt,0.81,,70,12.0
+Saudi Arabia,5,10,25.9,450,650,750,uni,0.8,1.0,33,18.5

@@ -1,0 +1,7 @@
+parameter,dist_type,param1,param2,param3,units_or_note
+inter_plant_substitution,uni,0.05,0.3,,fraction of lost capacity covered by other plants
+substitution_under_grid_outage,uni,0.0,0.1,,fraction; smaller because other plants also grid-coupled
+restart_after_drone_damage,tri,3,10,30,days
+restart_after_missile_damage,tri,120,365,1825,days
+weather_dispersion_factor,uni,1.0,2.5,,multiplier on mean advection (S4)
+gulf_current_speed,uni,0.05,0.25,,m/s (S4)

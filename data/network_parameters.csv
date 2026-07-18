@@ -1,0 +1,7 @@
+country,n_plants,largest_share_pct,cogeneration_fraction,strait_reliance_fraction,dependent_pop_millions,dual_coast_primary_share
+Bahrain,6,47.8,0.9,0.5,1.44,1.0
+Kuwait,7,15.7,0.9,0.5,4.59,1.0
+Qatar,7,36.8,1.0,0.2,3.17,1.0
+Oman,13,16.8,0.14,0.3,4.04,1.0
+UAE,70,12.0,0.81,0.4,4.86,0.7
+Saudi Arabia,33,18.5,0.9,0.3,25.9,0.65

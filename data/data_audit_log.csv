@@ -1,0 +1,13 @@
+Fix #,Sheet,Severity,Description,Status
+1,Vulnerability Indicators,CRITICAL,"Installed capacity unit was million m³/yr, corrected to million m³/day",RESOLVED
+2,Vulnerability Indicators,CRITICAL,Total potable water demand (Bahrain) inconsistent with dependency ratio,RESOLVED
+3,Vulnerability Indicators,CRITICAL,Imported water share had raw litres with a % unit label; converted to million litres/yr,RESOLVED
+4,Vulnerability Indicators,MODERATE,Dependency ratio verification notes added; implied totals documented,NOTED
+5,Conflict Timeline,MODERATE,Date 2025-03-16 corrected to 2026-03-16 (year typo),RESOLVED
+6,Conflict Timeline,MINOR,Typo ‘emergy’ corrected to ‘Energy’ in target type,RESOLVED
+7,Conflict Timeline,MINOR,"Target type labels standardized (capitalization, spacing)",RESOLVED
+8,Conflict Timeline,MINOR,"Typos corrected (‘fire reported’, ‘third attack’)",RESOLVED
+9,Global Benchmarks,MODERATE,Israel largest-plant share reconciled to 25.6% (capacity share),RESOLVED
+10,Vulnerability Indicators,MODERATE,SA/UAE coast split estimated from published plant inventories,RESOLVED
+11,Vulnerability Indicators,MINOR,Spelling: ‘expnading’ corrected to ‘expanding’,RESOLVED
+12,Scenario Analysis Data,MODERATE,"Precedent attacks (Doha West, Al-Shuqaiq) reconciled with chronology",RESOLVED

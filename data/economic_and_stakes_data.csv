@@ -1,0 +1,10 @@
+Indicator,Bahrain,Kuwait,Oman,Qatar,Saudi Arabia,UAE
+Normal desalination production cost (USD/m³),0.65-0.95,0.85-1.10,0.55-0.75,0.70-0.90,0.45-0.60,0.50-0.65
+Solar desalination cost (USD/m³),0.40-0.55,0.45-0.60,0.40-0.55,0.45-0.60,0.40-0.55,0.45-0.60
+Gas desalination cost (USD/m³),0.60-0.90,0.85-1.20,0.55-0.85,0.70-1.00,0.45-0.70,0.50-0.80
+ASR cost (USD/m³ stored),0.30-0.50,0.30-0.50,0.15-0.35,0.30-0.50,0.20-0.40,0.20-0.40
+Micro-desalination cost (USD/m³),1.80-2.50,1.80-2.50,1.50-2.20,1.80-2.50,1.50-2.20,1.50-2.20
+Emergency trucking cost (USD/m³),18.50,22.00,15.00,24.50,16.50,19.00
+Daily economic loss at disruption (USD millions),15-25,43-60,18-25,55-80,225-325,125-190
+Health cost per cholera episode (USD),~650,~700,~580,~850,~750,~800
+Sovereign risk characterization (S&P 2026),High sensitivity,Moderate-High,Improving,Sensitive,Strategic Priority,Highly resilient
