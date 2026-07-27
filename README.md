@@ -107,11 +107,11 @@ diff <(tr -d '\r' < layer1_outputs/layer1_composite_summary.csv) \
 
 If you use this code, please cite the article and the software (see `CITATION.cff`):
 
-> Ashkanani, Z., Shuaibi, N., Albatayneh, R., 2026. Engineering scarcity into vulnerability: desalination, water security, and the governance of conflict risk in the Gulf Cooperation Council. *Journal of Hydrology*.
+> Ashkanani, Z., Shuaibi, N., Albatayneh, R., 2026. Engineering scarcity into vulnerability: desalination, water security, and the governance of conflict risk in the Gulf Cooperation Council. *Journal of Hydrology: Regional Studies*.
 
 ## License
 
 Released under the MIT License (see `LICENSE`).
 
 ## Contact
-Data and analysis code for the Journal of Hydrology submission. Uploaded by Dr. Zainab Ashkanani, Email: Ashkanani@saaah.co
+Data and analysis code for the Journal of Hydrology: Regional Studies submission. Uploaded by Dr. Zainab Ashkanani, Email: Ashkanani@saaah.co
