@@ -1,6 +1,6 @@
 # GCC_Desalination
 
-Analysis code for the paper **"Engineering scarcity into vulnerability: desalination, water security, and the governance of conflict risk in the Gulf Cooperation Council"** (Ashkanani, Shuaibi and Albatayneh), submitted to *Journal of Hydrology: Regional Studies*.
+Analysis code for the paper **"Engineering scarcity into vulnerability: desalination, water security, and the governance of conflict risk in the Gulf Cooperation Council"** (Ashkanani, Shuaibi and Albatayneh), submitted to *the Journal of Earth's Future*.
 
 The code quantifies the vulnerability of desalination-dependent water supply in the six Gulf Cooperation Council (GCC) states to interstate conflict. It takes the deterministic seven-category composite vulnerability index and the four disruption scenarios from the paper and extends them into a fully probabilistic assessment: a Monte Carlo composite index, a stochastic disruption-scenario engine, a coupled multi-layer dependency-network cascade model, and a Sobol global sensitivity analysis.
 
